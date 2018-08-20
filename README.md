@@ -23,7 +23,7 @@ Wireframes
 ----
 This app consists of a single screen that displays the game board, and all the other associated information. There will also be a header section that links to this project's github, and my linkedin profile. To the side of the game board, there will be a section to display the high scores.
 
-![Wireframe](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Wireframe](https://raw.githubusercontent.com/hanqingchen15/pacman/master/assets/wireframe.png "Wireframe")
 
 Implementation Timeline
 ----
@@ -33,4 +33,4 @@ Day 2: Create the backend logic, such as keeping track of scores and lives, and 
 
 Day 3: Integrate user commands into the game, allowing the user to control pacman's movements using the arrow keys. If there is extra time left, look into integrating audio effects into the game as well.
 
-Day 4: Add styling to the front end, polish/ play test the game, and eliminate bugs. 
+Day 4: Add styling to the front end, polish/ play test the game, and eliminate bugs.
