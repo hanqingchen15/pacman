@@ -1,0 +1,19 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "Background and Overview ---- Pacman is a redux of the classic game using Javascript. Users would be able to control the iconic character and win the game by eating all the dots on the screen, while avoiding \"ghosts\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanqingchen15/pacman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanqingchen15/pacman/issues"
+  },
+  "homepage": "https://github.com/hanqingchen15/pacman#readme"
+}
