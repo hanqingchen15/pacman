@@ -1,8 +1,9 @@
 nav {
   display: block;
-  font-size: 30px;
+  font-size: 40px;
   color: white;
   text-align: center;
+  font-family: 'Bangers', cursive;
 }
 canvas {
   height: 600px;
@@ -10,6 +11,11 @@ canvas {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 15px;
+}
+
+body {
+  color: white;
 }
 
 .canvasEl {
@@ -28,6 +34,7 @@ img {
 
 p {
   color: white;
+  font-size: 20px;
 }
 
 html {
@@ -36,6 +43,7 @@ html {
 
 .instructions {
   max-width: 40vw;
+  font-family: 'Boogaloo', cursive;
 }
 
 .main {
