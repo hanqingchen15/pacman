@@ -33,3 +33,14 @@ p {
 html {
   background-color: black;
 }
+
+.instructions {
+  max-width: 40vw;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 40px 20px 40px;
+
+}
